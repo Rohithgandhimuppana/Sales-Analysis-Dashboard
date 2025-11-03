@@ -6,6 +6,4 @@ The Superstore Sales Analysis Dashboard is an interactive Power BI project desig
 ### Dashboard
 
 ![Power BI Dashboard1](Dashboard_images/2015.png)
-![Power BI Dashboard2](Dashboard_images/2016.png)
-![Power BI Dashboard3](Dashboard_images/2017.png)
-![Power BI Dashboard4](Dashboard_images/2018.png)
+
